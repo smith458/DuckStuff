@@ -1,0 +1,2 @@
+# DuckStuff
+Learning strategy pattern
